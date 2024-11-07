@@ -1,0 +1,17 @@
+﻿  DZ_6.cpp
+C:\Users\ZBook\Desktop\DZ_6\DZ_6.cpp(43,13): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\ZBook\Desktop\DZ_6\DZ_6.cpp(51,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZBook\Desktop\DZ_6\DZ_6.cpp(68,29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZBook\Desktop\DZ_6\DZ_6.cpp(142,13): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\ZBook\Desktop\DZ_6\DZ_6.cpp(150,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZBook\Desktop\DZ_6\DZ_6.cpp(167,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZBook\Desktop\DZ_6\DZ_6.cpp(241,13): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\ZBook\Desktop\DZ_6\DZ_6.cpp(249,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZBook\Desktop\DZ_6\DZ_6.cpp(266,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZBook\Desktop\DZ_6\DZ_6.cpp(340,13): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\ZBook\Desktop\DZ_6\DZ_6.cpp(348,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZBook\Desktop\DZ_6\DZ_6.cpp(365,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZBook\Desktop\DZ_6\DZ_6.cpp(439,13): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\ZBook\Desktop\DZ_6\DZ_6.cpp(447,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZBook\Desktop\DZ_6\DZ_6.cpp(464,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  DZ_6.vcxproj -> C:\Users\ZBook\Desktop\DZ_6\x64\Debug\DZ_6.exe
